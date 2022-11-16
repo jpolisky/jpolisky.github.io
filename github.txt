@@ -1,0 +1,6 @@
+git add .
+git commit -am "Something"
+git remote add origin https://github.com/jpolisky/[repo name].git
+git push -u origin master
+
+^^ or main
